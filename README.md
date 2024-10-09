@@ -1,4 +1,4 @@
-# vansh
+
 All these task's solution is in wt.pdf
 
 Tasks:
